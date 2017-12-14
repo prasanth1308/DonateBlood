@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "311580216596",
+    "firebase_url": "https://bd-alpha.firebaseio.com",
+    "project_id": "bd-alpha",
+    "storage_bucket": "bd-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311580216596:android:d7cb2e8cdb6b5ac8",
+        "android_client_info": {
+          "package_name": "com.example.prasanth.bdalpha_v05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311580216596-2sthc7g6ti7nhbrm0s69j20i1vgu1t5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prasanth.bdalpha_v05",
+            "certificate_hash": "db61d3874e3adaa348ea37c267418fe08ebe7602"
+          }
+        },
+        {
+          "client_id": "311580216596-aei3ki3tv8sfo8dgi943es0s1sp1obsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooSergq--mTGD12Rvbkgr-T52oTU-qF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311580216596-aei3ki3tv8sfo8dgi943es0s1sp1obsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
